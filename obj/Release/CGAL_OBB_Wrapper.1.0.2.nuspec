@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CGAL_OBB_Wrapper</id>
+    <version>1.0.2</version>
+    <authors>CGAL_OBB_Wrapper</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Grasshopper" version="8.16.25042.13001" exclude="Build,Analyzers" />
+        <dependency id="RhinoCommon" version="8.16.25042.13001" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/bin/Release/net7.0/CGAL_OBB_Wrapper.dll" target="lib/net7.0/CGAL_OBB_Wrapper.dll" />
+    <file src="/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/runtimes/osx-arm64/native/libCGAL.Native.dylib" target="runtimes/osx-arm64/native/libCGAL.Native.dylib" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/bin/Release/net7.0/CGAL_OBB_Wrapper.deps.json
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/bin/Release/net7.0/CGAL_OBB_Wrapper.dll
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/bin/Release/net7.0/CGAL_OBB_Wrapper.pdb
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.csproj.AssemblyReference.cache
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.AssemblyInfoInputs.cache
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.AssemblyInfo.cs
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.csproj.CoreCompileInputs.cache
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.dll
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/refint/CGAL_OBB_Wrapper.dll
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/CGAL_OBB_Wrapper.pdb
+/Users/gilsunshine/Documents/dev/CGAL_OBB_Wrapper/obj/Release/net7.0/ref/CGAL_OBB_Wrapper.dll

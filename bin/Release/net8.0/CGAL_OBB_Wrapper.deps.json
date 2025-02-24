@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CGAL_OBB_Wrapper/1.0.2": {
+        "dependencies": {
+          "Grasshopper": "8.16.25042.13001",
+          "RhinoCommon": "8.16.25042.13001"
+        },
+        "runtime": {
+          "CGAL_OBB_Wrapper.dll": {}
+        }
+      },
+      "Grasshopper/8.16.25042.13001": {
+        "dependencies": {
+          "RhinoCommon": "8.16.25042.13001"
+        },
+        "runtime": {
+          "lib/net48/GH_IO.dll": {
+            "assemblyVersion": "8.16.25042.13001",
+            "fileVersion": "8.16.25042.13001"
+          },
+          "lib/net48/Grasshopper.dll": {
+            "assemblyVersion": "8.16.25042.13001",
+            "fileVersion": "8.16.25042.13001"
+          }
+        }
+      },
+      "RhinoCommon/8.16.25042.13001": {
+        "runtime": {
+          "lib/net48/Ed.Eto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net48/Eto.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.9174.26147"
+          },
+          "lib/net48/Rhino.UI.dll": {
+            "assemblyVersion": "8.16.25042.13001",
+            "fileVersion": "8.16.25042.13001"
+          },
+          "lib/net48/RhinoCommon.dll": {
+            "assemblyVersion": "8.16.25042.13001",
+            "fileVersion": "8.16.25042.13001"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CGAL_OBB_Wrapper/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grasshopper/8.16.25042.13001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Eu/NjlOdq3fuNirBHPrNTNDl+DVffPmrjHIvMgrYxZB1rgpjTgS6cMDm62Yzd3yD+R/5oKgqNx5b+7ftJLsPUQ==",
+      "path": "grasshopper/8.16.25042.13001",
+      "hashPath": "grasshopper.8.16.25042.13001.nupkg.sha512"
+    },
+    "RhinoCommon/8.16.25042.13001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tpx/TT6x4rYSAm5WZvvGRF2kCygipv/tvtYRhQYakb3yDliIGmyWGnUVNNOyNhGo2RFtF5HBUFRHgL+lCvSfuw==",
+      "path": "rhinocommon/8.16.25042.13001",
+      "hashPath": "rhinocommon.8.16.25042.13001.nupkg.sha512"
+    }
+  }
+}

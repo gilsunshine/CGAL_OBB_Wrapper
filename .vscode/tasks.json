@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "msbuild",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build",
+			"label": "Build: CGAL_OBB_Wrapper.csproj",
+			"detail": "Build the CGAL_OBB_Wrapper.csproj project using dotnet build"
+		}
+	]
+}
